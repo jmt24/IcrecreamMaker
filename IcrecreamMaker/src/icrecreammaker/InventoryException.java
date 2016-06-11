@@ -1,3 +1,5 @@
+package icrecreammaker;
+
 public class InventoryException extends Exception {
 
 	private static final long serialVersionUID = 1L;

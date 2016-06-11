@@ -1,3 +1,5 @@
+package icrecreammaker;
+
 public class Inventario {
     
     private static int yogurt;

@@ -1,3 +1,5 @@
+package icrecreammaker;
+
 public class Combo {
     private String name;
     private int price;

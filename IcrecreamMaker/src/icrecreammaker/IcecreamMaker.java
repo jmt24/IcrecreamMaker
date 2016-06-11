@@ -1,3 +1,5 @@
+package icrecreammaker;
+
 public class IcecreamMaker {
 	/** Arreglo de combinaciones en la maquina de helados*/
 	private static Catalogo catalogo;

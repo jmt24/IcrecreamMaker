@@ -1,3 +1,5 @@
+package icrecreammaker;
+
 public class Catalogo {
 	
 	/** Arreglo de combinaciones en Maquina Helados*/
